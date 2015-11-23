@@ -62,28 +62,28 @@
 	AddIcon /theme/icons/ico.png .ico
 	AddIcon /theme/icons/java.png .jar
 	AddIcon /theme/icons/jpg.png .jpg .jpeg .jpe
-	AddIcon /theme/icons/icons/js.png .js .json
-	AddIcon /theme/icons/icons/markdown.png .md
-	AddIcon /theme/icons/icons/package.png .pkg .dmg
-	AddIcon /theme/icons/icons/pdf.png .pdf
-	AddIcon /theme/icons/icons/php.png .php .phtml
-	AddIcon /theme/icons/icons/playlist.png .m3u .m3u8 .pls .pls8
-	AddIcon /theme/icons/icons/png.png .png
-	AddIcon /theme/icons/icons/ps.png .ps
-	AddIcon /theme/icons/icons/psd.png .psd
-	AddIcon /theme/icons/icons/py.png .py
-	AddIcon /theme/icons/icons/rar.png .rar
-	AddIcon /theme/icons/icons/rb.png .rb
-	AddIcon /theme/icons/icons/rpm.png .rpm
-	AddIcon /theme/icons/icons/rss.png .rss
-	AddIcon /theme/icons/icons/script.png .bat .cmd .sh
-	AddIcon /theme/icons/icons/sql.png .sql
-	AddIcon /theme/icons/icons/tiff.png .tiff .tif
-	AddIcon /theme/icons/icons/text.png .txt .nfo
-	AddIcon /theme/icons/icons/video.png .asf .asx .avi .flv .mkv .mov .mp4 .mpg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv
-	AddIcon /theme/icons/icons/xml.png .xml
-	AddIcon /theme/icons/icons/zip.png .zip
-	DefaultIcon /theme/icons/icons/default.png
+	AddIcon /theme/icons/js.png .js .json
+	AddIcon /theme/icons/markdown.png .md
+	AddIcon /theme/icons/package.png .pkg .dmg
+	AddIcon /theme/icons/pdf.png .pdf
+	AddIcon /theme/icons/php.png .php .phtml
+	AddIcon /theme/icons/playlist.png .m3u .m3u8 .pls .pls8
+	AddIcon /theme/icons/png.png .png
+	AddIcon /theme/icons/ps.png .ps
+	AddIcon /theme/icons/psd.png .psd
+	AddIcon /theme/icons/py.png .py
+	AddIcon /theme/icons/rar.png .rar
+	AddIcon /theme/icons/rb.png .rb
+	AddIcon /theme/icons/rpm.png .rpm
+	AddIcon /theme/icons/rss.png .rss
+	AddIcon /theme/icons/script.png .bat .cmd .sh
+	AddIcon /theme/icons/sql.png .sql
+	AddIcon /theme/icons/tiff.png .tiff .tif
+	AddIcon /theme/icons/text.png .txt .nfo
+	AddIcon /theme/icons/video.png .asf .asx .avi .flv .mkv .mov .mp4 .mpg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv
+	AddIcon /theme/icons/xml.png .xml
+	AddIcon /theme/icons/zip.png .zip
+	DefaultIcon /theme/icons/default.png
 
 #
 # THEME FILES
